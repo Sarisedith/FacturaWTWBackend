@@ -1890,11 +1890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\FacturaWTWBackend\\FacturaWTW.Application\\FacturaWTW.Application.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FacturaWTWBackend\\FacturaWTW.Application\\FacturaWTW.Application.csproj",
       "projectName": "FacturaWTW.Application",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\FacturaWTWBackend\\FacturaWTW.Application\\FacturaWTW.Application.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\FacturaWTWBackend\\FacturaWTW.Application\\FacturaWTW.Application.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Source\\Repos\\FacturaWTWBackend\\FacturaWTW.Application\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\FacturaWTWBackend\\FacturaWTW.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1916,11 +1916,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Source\\Repos\\FacturaWTWBackend\\FacturaWTW.Domain\\FacturaWTW.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\FacturaWTWBackend\\FacturaWTW.Domain\\FacturaWTW.Domain.csproj"
+            "C:\\Users\\User\\source\\repos\\FacturaWTWBackend\\FacturaWTW.Domain\\FacturaWTW.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\FacturaWTWBackend\\FacturaWTW.Domain\\FacturaWTW.Domain.csproj"
             },
-            "C:\\Users\\User\\Source\\Repos\\FacturaWTWBackend\\FacturaWTW.Infrastructure\\FacturaWTW.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\FacturaWTWBackend\\FacturaWTW.Infrastructure\\FacturaWTW.Infrastructure.csproj"
+            "C:\\Users\\User\\source\\repos\\FacturaWTWBackend\\FacturaWTW.Infrastructure\\FacturaWTW.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\FacturaWTWBackend\\FacturaWTW.Infrastructure\\FacturaWTW.Infrastructure.csproj"
             }
           }
         }

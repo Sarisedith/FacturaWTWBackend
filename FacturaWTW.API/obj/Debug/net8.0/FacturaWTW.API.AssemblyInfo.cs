@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FacturaWTW.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e03959380fd5081ce45317d1abb2467ff3931c0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3657a387ad018f910a32ecf91f930158ce17a1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FacturaWTW.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FacturaWTW.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
